@@ -23,4 +23,3 @@ It works on Any Desktop Environment and Window Managers!
 
 If you are the original creator of this wallpaper and would like attribution
 or removal, please open an issue on this repository.
-Show more lines
