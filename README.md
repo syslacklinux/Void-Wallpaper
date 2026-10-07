@@ -18,3 +18,5 @@ If its /usr/share/wallpapers. sudo mv /home/anon/Void-Wallpaper/void /usr/share/
 If its /usr/share/backgrounds. sudo mv /home/anon/Void-Wallpaper/void /usr/share/backgrounds (anon is example. change anon to your username)
 
 After moving the /home/anon/Void-Wallpaper/void to /usr/share/wallpapers or /usr/share/backgrounds move the Void-Wallpaper from /home/anon/Void-Wallpaper to trash then empty the trash
+
+It works on Any Desktop Environment and Window Managers!
